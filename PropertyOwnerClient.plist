@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://120.25.232.198/wuye-o2o/static/app/PropertyOwnerClient_nsgg_1.0.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://120.25.232.198/wuye-o2o/static/images/ios114@2x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://120.25.232.198/wuye-o2o/static/images/ios57.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
